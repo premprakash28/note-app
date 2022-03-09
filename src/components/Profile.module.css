@@ -1,0 +1,13 @@
+.grid3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 4fr;
+  height: 80%;
+}
+.sidebar {
+  background-color: #adb5bd;
+  padding: 10px;
+}
+.notes {
+  background-color: #dee2e6;
+  padding: 10px;
+}
